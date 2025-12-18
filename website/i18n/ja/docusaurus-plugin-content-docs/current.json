@@ -1,0 +1,70 @@
+{
+  "version.label": {
+    "message": "main",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Examples": {
+    "message": "Examples",
+    "description": "The label for category 'Examples' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.aws": {
+    "message": "aws",
+    "description": "The label for category 'aws' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.basic": {
+    "message": "basic",
+    "description": "The label for category 'basic' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.gcp": {
+    "message": "gcp",
+    "description": "The label for category 'gcp' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.kubernetes": {
+    "message": "kubernetes",
+    "description": "The label for category 'kubernetes' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Getting started": {
+    "message": "Getting started",
+    "description": "The label for category 'Getting started' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category 'Concepts' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.ResourceGraphDefinitions": {
+    "message": "ResourceGraphDefinitions",
+    "description": "The label for category 'ResourceGraphDefinitions' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Resource Definitions": {
+    "message": "Resource Definitions",
+    "description": "The label for category 'Resource Definitions' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Advanced": {
+    "message": "Advanced",
+    "description": "The label for category 'Advanced' in sidebar 'docsSidebar'"
+  },
+  "sidebar.examplesSidebar.category.aws": {
+    "message": "aws",
+    "description": "The label for category 'aws' in sidebar 'examplesSidebar'"
+  },
+  "sidebar.examplesSidebar.category.basic": {
+    "message": "basic",
+    "description": "The label for category 'basic' in sidebar 'examplesSidebar'"
+  },
+  "sidebar.examplesSidebar.category.gcp": {
+    "message": "gcp",
+    "description": "The label for category 'gcp' in sidebar 'examplesSidebar'"
+  },
+  "sidebar.examplesSidebar.category.kubernetes": {
+    "message": "kubernetes",
+    "description": "The label for category 'kubernetes' in sidebar 'examplesSidebar'"
+  },
+  "sidebar.apisSidebar.category.CRDs": {
+    "message": "CRDs",
+    "description": "The label for category 'CRDs' in sidebar 'apisSidebar'"
+  },
+  "sidebar.apisSidebar.category.Specifications": {
+    "message": "Specifications",
+    "description": "The label for category 'Specifications' in sidebar 'apisSidebar'"
+  }
+}

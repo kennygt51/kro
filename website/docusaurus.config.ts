@@ -52,7 +52,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", 'ja'],
   },
   headTags: [
     {
@@ -152,6 +152,10 @@ const config: Config = {
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
         },
       ],
     },
